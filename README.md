@@ -6,7 +6,7 @@
 </p>
 
 # Announcement
-**Sadly I don't have time to dedicate time to this project. Some others have created a fork here to continue the work: https://github.com/proton-nativejs/proton-native**
+This is a personal fork since the main fork on the original project is not work/not currently being developed.
 
 [![npm](https://img.shields.io/npm/v/proton-native.svg)](https://www.npmjs.com/package/proton-native)
 [![npm](https://img.shields.io/npm/dm/proton-native.svg)](https://www.npmjs.com/package/proton-native)
@@ -46,10 +46,8 @@ See the documentation for how to get started and details on all the components.
 
 ## Examples
 
-Examples can be found in [`examples/`](https://github.com/kusti8/proton-native/tree/master/examples).
+Examples can be found in [`examples/`](https://github.com/ajstrand/proton-native/tree/master/examples).
 
 ## Contributing
 
 All contributions are welcome. Just make a PR.
-
-<a href="https://www.keycdn.com/"><sub><sup>Accelerated by KeyCDN</sup></sub></a>
